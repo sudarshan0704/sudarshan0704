@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bachelor's of Computer Science
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me
--personaln site:https://type.link/kmragusudarshan
+-personal- site:https://type.link/kmragusudarshan
 - Email:kmragusudarshan@gmail.com
 - 😄 
 
